@@ -1,0 +1,11 @@
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\bin\Debug\NLog.config
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\bin\Debug\NLog_Test_Demo.exe.config
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\bin\Debug\NLog_Test_Demo.exe
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\bin\Debug\NLog_Test_Demo.pdb
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\bin\Debug\NLog.dll
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\bin\Debug\NLog.xml
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\obj\Debug\NLog_Test_Demo.csproj.AssemblyReference.cache
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\obj\Debug\NLog_Test_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\obj\Debug\NLog_Test_Demo.csproj.CopyComplete
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\obj\Debug\NLog_Test_Demo.exe
+C:\Users\Leonid.Ristanovski\source\repos\NLog_Test_Demo\NLog_Test_Demo\obj\Debug\NLog_Test_Demo.pdb
